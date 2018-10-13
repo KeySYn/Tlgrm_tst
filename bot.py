@@ -1,6 +1,5 @@
 import telebot
 
-
 # main variables
 
 import ignorefile
